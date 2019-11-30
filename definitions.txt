@@ -1,0 +1,20 @@
+variable
+named memory location which is used to store data which can be changed during the running of the program
+constant
+named memory location which is used to store data which cannot be changed during the running of the program
+array
+named memory location which is used to store multiple pieces of data which each have a unique index
+iteration
+a block of code which is run a specific number of times or until a condition is met
+selection
+controls the flow of the program to run certain blocks of code if a condition is met
+sequence
+code which is run in the order than it is written
+function
+a block of code which takes parameters and returns a value which can be called later in the program
+procedure
+a block of code which takes parameters which can be called later in the program
+parameter
+variable which data passed into a subroutine is stored to
+argument
+data being passed into a subroutine

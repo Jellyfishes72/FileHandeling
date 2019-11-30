@@ -1,0 +1,22 @@
+array myIntegers[5]
+start = 0
+end = myIntegers.length-1
+found = false
+searchItem = input("Enter search item")
+
+while (found == false AND start <= end)
+	mid = (start + end) / 2
+	if (myIntegers[mid] == searchItem) then
+		found = true
+	else if (myIntegers[mid] < searchItem) then
+		end = mid - 1
+	else
+		start = mid + 1
+	endif
+endwhile
+
+if (found == true) then
+	print("Item found")
+else
+	print("Item not found")
+endif
