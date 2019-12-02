@@ -35,6 +35,7 @@ public class question5 {
             }
         }while(cont);
     }
+
     private static void SearchByTerm(String search) throws IOException{
         boolean found = false;
         FileReader fr = new FileReader("definitions.txt");
