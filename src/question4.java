@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 
-public class question3d {
+public class question4 {
     public static void main(String[] args) throws IOException{
         Random rand = new Random();
         FileWriter fw = new FileWriter("LotteryNumbers.txt", true);
