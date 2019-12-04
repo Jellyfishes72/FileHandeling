@@ -9,7 +9,7 @@ a block of code which is run a specific number of times or until a condition is 
 selection
 controls the flow of the program to run certain blocks of code if a condition is met
 sequence
-code which is run in the order than it is written
+code which is run in the order that it is written
 function
 a block of code which takes parameters and returns a value which can be called later in the program
 procedure
